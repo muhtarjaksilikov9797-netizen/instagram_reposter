@@ -20,7 +20,7 @@
 1. Клонируем репозиторий:
 
 ```bash
-git clone https://github.com/username/instagram_reposter.git
+git clone https://github.com/jaksilikov/instagram_reposter.git
 cd instagram_reposter
 ```
 
